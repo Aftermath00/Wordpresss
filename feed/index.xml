@@ -11,7 +11,7 @@
 	<title>Bina Antarbudaya</title>
 	<atom:link href="https://aftermath00.github.io/Wordpresss/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aftermath00.github.io/Wordpresss</link>
-	<description>Just another WordPress site</description>
+	<description>AFS Indonesia</description>
 	<lastBuildDate>Wed, 19 Oct 2022 13:59:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://aftermath00.github.io/Wordpresss/wp-content/uploads/2022/10/cropped-binaantarbudaya-2-60x60.png</url>
+	<title>Bina Antarbudaya</title>
+	<link>https://aftermath00.github.io/Wordpresss</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://aftermath00.github.io/Wordpresss/2022/10/19/hello-world/</link>
